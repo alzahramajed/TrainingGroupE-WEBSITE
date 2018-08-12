@@ -1,4 +1,4 @@
-this web site is a project for Cloud Systems company
+This web site is a project for Cloud Systems company
 as requirement task in training
 
 # Mockup/wireframe
