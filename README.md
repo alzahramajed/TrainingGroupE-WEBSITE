@@ -7,7 +7,7 @@ https://app.moqups.com/F.O.altweel/6HuUhRkor6/view/page/aa9df7b72
 
 
 # Livedemo in git hub pages
-https://rihab-d.github.io/Group_e/
+https://alzahramajed.github.io/TrainingGroupE-WEBSITE/
 
 
 # Docs:
